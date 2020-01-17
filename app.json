@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "Venture Guts",
+    "slug": "entreGuts",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "description": "Upgrade your Venture Guts.",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "2.0.2",
+    "notification": {
+      "icon": "./assets/images/guts_droid.png",
+      "color": "#fff",
+      "androidMode": "default",
+      "androidCollapsedTitle": "Venture Guts"
+    },
+    "orientation": "portrait",
+    "splash": {
+      "image": "./assets/images/caj_splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "facebookScheme": "fb518652302261704",
+    "facebookAppId": "518652302261704",
+    "facebookDisplayName": "Venture Guts",
+    "updates": {
+      "fallbackToCacheTimeout": 10000
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.relativeemotionenterprises.entreguts",
+      "icon": "./assets/images/icon.png"
+    },
+    "android": {
+      "package": "com.relativeemotionenterprises.entreguts",
+      "googleServicesFile": "./google-services.json",
+      "icon": "./assets/images/guts_droid.png",
+      "permissions": [],
+      "versionCode": 6
+    }
+  }
+}
