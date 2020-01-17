@@ -1,12 +1,21 @@
 # Venture Guts (Cleaned Demo Repository for Portfolio Purposes)
 
+_This repo is cleaned up so it can be displayed publically. Most components are not available, etc._
+
+## Stack
+
+- React Native, Expo
+- Apollo Client
+
+## App Store Description
+
 venture-guts [venture-guhts] • noun:
 
 > The courage to test one's venture ideas.
 
 This brand new version of Venture Guts focuses on helping entrepreneurs muster up the GUTS to TEST and VALIDATE their venture ideas.
 
-HOW THE COMMUNITY WORKS
+**HOW THE COMMUNITY WORKS**
 
 (1) Post a Startup Goal
 
@@ -20,9 +29,9 @@ Use Startup Challenge Threads to get help evaluating the real obstacles in the w
 
 Receive community guidance on how to drive forward groundbreaking Customer Interviews.
 
-...Succeed where others will fail: by having the actual GUTS to test and iterate your startup strategy.
+> ...Succeed where others will fail: by having the actual GUTS to test and iterate your startup strategy.
 
-**_Venture Guts Credo_**
+**Venture Guts Credo**
 
 • You have to go above and beyond the call of duty to succeed as an entrepreneur. And sometimes it takes others to help us get there.
 
