@@ -1,6 +1,8 @@
-# Venture Guts (Cleaned Demo Repository for Portfolio Purposes)
+# Venture Guts
 
 _This repo is cleaned up so it can be displayed publically. Most components are not available, etc._
+
+See the real product here: https://apps.apple.com/us/app/venture-guts/id1465953573
 
 ## Stack
 
