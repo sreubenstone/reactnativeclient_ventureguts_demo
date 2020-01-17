@@ -19,15 +19,15 @@ This brand new version of Venture Guts focuses on helping entrepreneurs muster u
 
 **HOW THE COMMUNITY WORKS**
 
-(1) Post a Startup Goal
+**(1) Post a Startup Goal**
 
 Establish your next Startup Goal.
 
-(2) Utilize Challenge Threads
+**(2) Utilize Challenge Threads**
 
 Use Startup Challenge Threads to get help evaluating the real obstacles in the way of your Startup Goal.
 
-(3) Have the Courage to Conduct Customer Interviews
+**(3) Have the Courage to Conduct Customer Interviews**
 
 Receive community guidance on how to drive forward groundbreaking Customer Interviews.
 
